@@ -46,8 +46,8 @@ A text editor is really different from a word processor, so don't mix them up.
 00:00:29,739 --> 00:00:31,834
 Code needs to be written line by line,
 
-13
-00:00:31,835 --> 00:00:34,625
+12
+00:00:29,739 --> 00:00:31,834
 with line breaks and indentations included on purpose.
 
 14
